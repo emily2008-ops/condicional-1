@@ -8,4 +8,5 @@ if edad1 > edad2:
     print("el hermano mayor es: ", nombre1)
 elif edad2 > edad1:
     print("el hermano mayor es: ", nombre2) 
+else:
     print("ambos tienen la misma edad. ")
